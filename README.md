@@ -122,6 +122,7 @@ I'm always learning, building, and trying to become a better developer every day
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/neev-ahuja/neev-ahuja/output/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/neev-ahuja/neev-ahuja/output/snake.svg" alt="Snake animation" />
+
 
 
