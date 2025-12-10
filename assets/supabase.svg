@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="body_1" viewBox="133.03 102.59 523.74 537.32">
+
+<defs>
+    <clipPath id="1">
+
+    <path id="" clip-rule="evenodd" transform="matrix(1 0 0 1 0 0)" d="M0 842L0 0L0 0L595 0L595 0L595 842L595 842L0 842z"/>    </clipPath>
+    <clipPath id="2">
+
+    <path id="" clip-rule="evenodd" transform="matrix(1 0 0 1 0 0)" d="M90 0L595 0L595 0L595 842L595 842L90 842z"/>    </clipPath>
+    <clipPath id="3">
+
+    <path id="" clip-rule="evenodd" transform="matrix(1 0 0 1 0 0)" d="M94.67971 76.94379L497.67972 76.94379L497.67972 76.94379L497.67972 479.9438L497.67972 479.9438L94.67971 479.9438z"/>    </clipPath>
+    <clipPath id="4">
+
+    <path id="" clip-rule="evenodd" transform="matrix(1 0 0 1 0 0)" d="M94.67971 76.94379L497.67972 76.94379L497.67972 76.94379L497.67972 479.9438L497.67972 479.9438L94.67971 479.9438z"/>    </clipPath>
+</defs>
+
+<g transform="matrix(1.3333 0 0 1.3333 0 0)">
+	<g clip-path="url(#1)">
+		<g clip-path="url(#2)">
+			<g clip-path="url(#3)">
+				<g clip-path="url(#4)">
+    <path id="" transform="matrix(1 0 0 -1 0 842)" d="M294.50055 747.66003C 294.25427 764.22784 273.34305 771.3251 263.04416 758.36194L263.04416 758.36194L107.508545 562.70544C 89.127266 539.6001 105.5831 505.5466 135.13643 505.5466L135.13643 505.5466L295.9782 505.5466L295.9782 505.5466L297.8813 379.42996C 298.12753 362.8846 319.0164 355.7873 329.33765 368.7505L329.33765 368.7505L484.87326 564.4294C 503.23215 587.5123 486.77634 621.5658 457.2454 621.5658L457.2454 621.5658L295.32895 621.5658z" stroke="none" fill="#3ECF8E" fill-rule="nonzero"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
