@@ -29,13 +29,13 @@ I'm always learning, building, and trying to become a better developer every day
 <div align="left">
 
 <a href="https://spring.io/projects/spring-boot" target="_blank">
-<img src="./assets/springboot.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" height="30" />
 </a>
 
 <img width="12">
 
 <a href="https://nodejs.org/" target="_blank">
-<img src="./assets/nodejs.svg" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30" />
 </a>
 
 <img width="12">
@@ -123,4 +123,5 @@ I'm always learning, building, and trying to become a better developer every day
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/neev-ahuja/neev-ahuja/output/output/snake.svg" alt="Snake animation" />
+
 
